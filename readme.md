@@ -1,5 +1,14 @@
 # RestAPI for Creating QR Codes
 
+
+Screenshots: 
+<img width="639" alt="image" src="https://github.com/user-attachments/assets/6d7366a4-dad4-4235-99f5-1ae9d4f94398" />
+<img width="623" alt="image" src="https://github.com/user-attachments/assets/75c51a88-6f2a-4d9c-a351-a71cae14ff23" />
+<img width="808" alt="image" src="https://github.com/user-attachments/assets/51c5375d-e21a-4ee0-8f19-feebc0046ba6" />
+
+
+
+
 For this assignment I want you to go over the videos and I've created a X number of errors in the code that you will have to find and fix them.  You should keep running the tests and read the error and try to understand what it mean.  The purpose of this assignment is to get you accustomed to running the project and following the steps that the program uses to process requests.
 
 Here is my repo with the working code: [https://github.com/kaw393939/fastapi_spring2024](https://github.com/kaw393939/fastapi_spring2024)
